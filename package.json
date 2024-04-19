@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "name": "urooba-gamegusing",
+  "version": "1.0.0",
+  "description": "\"this is a number guessing game\"",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "type": "module",
+  "bin": {
+    "urooba-gamegusing": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
